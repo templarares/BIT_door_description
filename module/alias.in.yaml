@@ -1,0 +1,1 @@
+BITDoor: [env, "@CMAKE_CURRENT_SOURCE_DIR@", bit_door]

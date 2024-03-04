@@ -1,0 +1,3 @@
+
+  door: [door, "@CMAKE_CURRENT_SOURCE_DIR@/convex/patrol_robot/door-ch.txt"]
+  handle: [handle, "@CMAKE_CURRENT_SOURCE_DIR@/convex/patrol_robot/handle-ch.txt"]
